@@ -1,5 +1,6 @@
 # Assessment
 
+## To run locally:
 1. Download the node version from https://nodejs.org/en/download.
 2. Clone this repository and Run <b>npm install</b> on terminal.
 3. Run <b> npm run start</b> command.
