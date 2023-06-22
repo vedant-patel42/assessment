@@ -1,5 +1,11 @@
 # Assessment
 
+This small projet is implemented in Node js framework. The test cases are provided in examples folder. In order to test the implementations, follow the following steps and provide any unit test as per your choice. 
+
+
+
+
+
 ## To run locally:
 1. Download the node version from https://nodejs.org/en/download.
 2. Clone this repository and Run <b>npm install</b> on terminal.
