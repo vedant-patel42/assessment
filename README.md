@@ -1,10 +1,6 @@
 # Assessment
 
-This small projet is implemented in Node js framework. The test cases are provided in examples folder. In order to test the implementations, follow the following steps and provide any unit test as per your choice. 
-
-
-
-
+This small projet is implemented in Node js framework. The test cases are provided in examples folder. In order to test the implementations, follow the below steps with test case.
 
 ## To run locally:
 1. Download the node version from https://nodejs.org/en/download.
