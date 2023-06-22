@@ -5,7 +5,7 @@ This small projet is implemented in Node js framework. The test cases are provid
 Download the Node js of any version from https://nodejs.org/en/download.
 
 ## To run locally:
-1. Clone this repository and Run <b>npm install</b> on terminal.
+1. Clone this repository and Run <b>`npm install`</b> on terminal.
 2. Run <b> `npm run start`</b> command.
 3. You can use Postman for <b>`POST`</b> and <b>`GET`</b> request.
 4. You can also use cUrl command: For example,<br> 
