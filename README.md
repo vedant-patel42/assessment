@@ -16,8 +16,8 @@ git clone https://github.com/your-username/receipt-processor.git
 ```
 2. Install the dependencies:
 ```yaml
-<b> cd receipt-processor
-npm install </b>
+cd receipt-processor
+npm install
 ```
 3. Start the Server:
 ```yaml
