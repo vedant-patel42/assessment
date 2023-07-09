@@ -107,3 +107,15 @@ Content-Type: application/json
   "points": 32
 }
 ```
+
+# Testing
+
+To run the unit tests, use the following command:
+
+```yaml
+npm test
+```
+
+The tests cover various scenarios and ensure the functionality and correctness of the Receipt Processor. You can also find test cases in <b>example</b> folder.
+
+
